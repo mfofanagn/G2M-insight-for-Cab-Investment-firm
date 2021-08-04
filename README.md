@@ -17,3 +17,7 @@ In the presentation, we will present projects different steps followed, analysis
 
    
 You can upload project others data file at this OneDrive link:
+
+
+
+https://dstisas-my.sharepoint.com/:f:/g/personal/mamadi_fofana_edu_dsti_institute/EhvbNunH38BCoOBsmq3pERUBJkLH_2ejhhQqF_orKxzaJQ?e=nGpBf8
