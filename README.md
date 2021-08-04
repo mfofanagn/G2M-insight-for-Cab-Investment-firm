@@ -4,8 +4,16 @@ The Client  XYZ is a private firm in US. Due to remarkable growth in the Cab Ind
 Project delivery:
 You have been provided with multiple data sets that contains information on 2 cab companies. Each file (data set) provided represents different aspects of the customer profile. XYZ is interested in using your actionable insights to help them identify the right company to make their investment. 
 
-The outcome  will be a presentation to XYZ’s Executive team. This presentation will be judged based on the visuals provided, the quality of your analysis and the value of your recommendations and insights. 
+The outcome  will be a presentation to XYZ’s Executive team usefull recommendations and insights. 
 
-The project will be done in  two part
-   first part is python part 
-   the second is PowerBi for advanced analysis
+The project will be divided in  2 sub projects and one presentation
+   The first project  will be done in python  
+   The second in  PowerBi 
+   The presentation will be done in PowerPoint
+
+In the first sub project, we will do essentially exploratory data analysis, data preprocessing and generate an output dataset which will be input for the second sub project 
+In the second sub project, advanced analysis will done in PowerBi in order extract usefull insights
+In the presentation, we will present projects different steps followed, analysis done and at the end recommandations for the study
+
+   
+You can upload project others data file at this OneDrive link:
