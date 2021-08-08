@@ -6,13 +6,15 @@ You have been provided with multiple data sets that contains information on 2 ca
 
 The outcome  will be a presentation to XYZ’s Executive team usefull recommendations and insights. 
 
-The project will be divided in  2 sub projects and one presentation
-   The first project  will be done in python  
-   The second in  PowerBi 
-   The presentation will be done in PowerPoint
+The project will be divided in  2 sub projects and one presentation.
+   * The first project  will be done in python  
+   * The second in  PowerBi 
+   * The presentation will be done in PowerPoint
 
-In the first sub project, we will do essentially exploratory data analysis, data preprocessing and generate an output dataset which will be input for the second sub project 
-In the second sub project, advanced analysis will done in PowerBi in order extract usefull insights
+In the first sub project, we will do essentially exploratory data analysis, data preprocessing and generate an output dataset which will be input for the second sub project .
+
+In the second sub project, advanced analysis will done in PowerBi in order to extract usefull insights
+
 In the presentation, we will present projects different steps followed, analysis done and at the end recommandations for the study
 
    
